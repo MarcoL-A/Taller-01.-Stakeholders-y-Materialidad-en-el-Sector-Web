@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="materialidad.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<empresa_sostenible>
+    <stakeholder>
+        <empresa>Google Académico</empresa>
+        <tema_material ASG="Punto de Partida">
+            <descripcion>Indexa artículos, tesis, libros y resúmenes de una gran variedad de fuentes.</descripcion>
+        </tema_material>
+    </stakeholder>
+    <stakeholder>
+        <empresa>Semantic Scholar</empresa>
+        <tema_material ASG="Punto de Partida">
+            <descripcion>Una alternativa a Google Scholar, impulsada por IA (del Allen Institute for AI). Es especialmente fuerte en informática.</descripcion>
+        </tema_material>
+    </stakeholder>
+    <stakeholder>
+        <empresa>Semantic Scholar</empresa>
+        <tema_material ASG="Punto de Partida">
+            <descripcion>Una alternativa a Google Scholar, impulsada por IA (del Allen Institute for AI). Es especialmente fuerte en informática.</descripcion>
+        </tema_material>
+    </stakeholder>
+    <stakeholder>
+        <empresa>arXiv.org</empresa>
+        <tema_material ASG="Repositorios de Artículos y Preprints">
+            <descripcion>Es el repositorio de preprints (versiones previas a la revisión por pares) más importante en física, matemáticas e informática.</descripcion>
+        </tema_material>
+    </stakeholder>
+    <stakeholder>
+        <empresa>DBLP</empresa>
+        <tema_material ASG="Repositorios de Artículos y Preprints">
+            <descripcion>Aunque técnicamente es una base de datos bibliográfica, DBLP es fundamental para la informática. Indexa las principales revistas y conferencias.</descripcion>
+        </tema_material>
+    </stakeholder>
+    <stakeholder>
+        <empresa>DOAJ</empresa>
+        <tema_material ASG="Directorios de Revistas y Libros">
+            <descripcion>Un directorio masivo que indexa y proporciona acceso a revistas de acceso abierto, de alta calidad y revisadas por pares.</descripcion>
+        </tema_material>
+    </stakeholder>
+    <stakeholder>
+        <empresa>Directory of Open Access Books</empresa>
+        <tema_material ASG="Directorios de Revistas y Libros">
+            <descripcion>El equivalente a DOAJ, pero para libros académicos.</descripcion>
+        </tema_material>
+    </stakeholder>
+    <stakeholder>
+        <empresa>Dialnet</empresa>
+        <tema_material ASG="Tesis y Contenido en Español">
+            <descripcion>Una de las mayores hemerotecas de artículos científicos y tesis hispanas del mundo.</descripcion>
+        </tema_material>
+    </stakeholder>
+    <stakeholder>
+        <empresa>OATD</empresa>
+        <tema_material ASG="Tesis y Contenido en Español">
+            <descripcion>Un motor de búsqueda global enfocado exclusivamente en tesis y disertaciones de acceso abierto ○ Contenido: Tesis doctorales y de maestría.</descripcion>
+        </tema_material>
+    </stakeholder>
+</empresa_sostenible>
